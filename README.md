@@ -1,1 +1,1 @@
-![Calculadora Java](CaputaCalculadora.JPG)
+![Calculadora Java](CapturaCalculadora.JPG)
